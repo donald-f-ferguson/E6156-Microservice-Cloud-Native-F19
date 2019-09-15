@@ -1,0 +1,7 @@
+'{'
+        'Name': {topic_name},
+        'Attributes' : '{'
+            'DisplayName': {display_name}
+        '}'
+    '}'
+'}'

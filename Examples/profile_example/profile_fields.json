@@ -1,0 +1,10 @@
+{
+    "address": {
+        "kinds": ["Work", "Business", "Other"],
+        "fields": ["street 1", "street 2", "city", "state", "postal_code", "country"]
+    },
+    "phone": {
+        "kinds": ["Work", "Mobile", "Home", "Fax", "Other"],
+        "fields": ["country_code", "number", "extension"]
+    }
+}

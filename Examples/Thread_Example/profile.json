@@ -1,0 +1,26 @@
+{
+  "created_timestamp": 1539264470716,
+  "customer_id": "dofe1",
+  "modified_timestamp": 1539264470716,
+  "profile_entries": [
+    {
+      "label": "office_address",
+      "value": {
+        "city": "New York",
+        "country": "USA",
+        "post_code": "10027-6601",
+        "state": "NY",
+        "street1": "520 W 120th St",
+        "street2": null
+      }
+    },
+    {
+      "label": "admin_contact_info",
+      "value": {
+        "email": "sith_apprentice@deathstar.gov",
+        "Note": "Try to void aggravation",
+        "phone": "212-555-1212"
+      }
+    }
+  ]
+}
